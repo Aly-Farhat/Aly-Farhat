@@ -12,10 +12,9 @@ As an entrepreneur and co-founder of **H2X Solutions**, I’ve merged innovation
 
 🌟 Passionate about the intersection of **AI and Finance**, I apply my trading and investing acumen in **stocks and crypto** to uncover data-driven opportunities in a constantly evolving financial landscape. 
 
-### 👀 Profile Views
 
 <p align="center">
-  <img src="https://visitor-badge.glitch.me/badge?page_id=Aly-Farhat" alt="Profile Views" />
+  <img src="https://komarev.com/ghpvc/?username=Aly-Farhat&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views" />
 </p>
 
 
@@ -61,7 +60,7 @@ As an entrepreneur and co-founder of **H2X Solutions**, I’ve merged innovation
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Aly-Farhat&show_icons=true&theme=radical&cache_seconds=0" alt="GitHub Stats" width="49%"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Aly-Farhat&theme=radical" alt="GitHub Streak" width="49%"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Aly-Farhat&theme=radical&token=YOUR_PERSONAL_ACCESS_TOKEN" alt="GitHub Streak" width="49%" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Aly-Farhat&layout=compact&theme=radical&cache_seconds=0" alt="Top Languages" width="49%"/>
 </div>
 
