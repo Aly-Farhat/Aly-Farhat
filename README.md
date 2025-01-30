@@ -60,7 +60,7 @@ As an entrepreneur and co-founder of **H2X Solutions**, I’ve merged innovation
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Aly-Farhat&show_icons=true&theme=radical&cache_seconds=0" alt="GitHub Stats" width="49%"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Aly-Farhat&theme=radical" alt="GitHub Streak" width="49%"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Aly-Farhat&theme=radical&cache_seconds=0" alt="GitHub Streak" width="49%"/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Aly-Farhat&layout=compact&theme=radical&cache_seconds=0" alt="Top Languages" width="49%"/>
 </div>
 
