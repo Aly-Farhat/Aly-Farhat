@@ -18,41 +18,27 @@ As an entrepreneur and co-founder of **H2X Solutions**, I’ve merged innovation
 </p>
 
 
-## 🛠️ Technical Skills
+## 🚀 Technical Skills
 
-<div align="center">
+### 🖥️ Programming Languages
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white)
+![R](https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white)
+![SAS](https://img.shields.io/badge/SAS-004B87?style=for-the-badge&logo=sas&logoColor=white)
+![MATLAB](https://img.shields.io/badge/MATLAB-FF8000?style=for-the-badge&logo=mathworks&logoColor=white)
 
-<table>
-  <tr>
-    <th align="left">👨‍💻 Programming Languages</th>
-    <th align="left">📊 Data Visualization</th>
-    <th align="left">☁️ Cloud Platforms</th>
-    <th align="left">📋 Project Management Tools</th>
-  </tr>
-  <tr>
-    <td>
-      <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" /><br>
-      <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white" /><br>
-      <img src="https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white" /><br>
-      <img src="https://img.shields.io/badge/SAS-005BAC?style=for-the-badge&logo=sas&logoColor=white" /><br>
-      <img src="https://img.shields.io/badge/MATLAB-FF7200?style=for-the-badge&logo=mathworks&logoColor=white" />
-    </td>
-    <td>
-      <img src="https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" /><br>
-      <img src="https://img.shields.io/badge/Seaborn-3776AB?style=for-the-badge&logo=python&logoColor=white" /><br>
-      <img src="https://img.shields.io/badge/Matplotlib-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-    </td>
-    <td>
-      <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white" /><br>
-      <img src="https://img.shields.io/badge/Microsoft%20Azure-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white" />
-    </td>
-    <td>
-      <img src="https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=jira&logoColor=white" />
-    </td>
-  </tr>
-</table>
+### 📊 Data Visualization
+![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=power-bi&logoColor=black)
+![Seaborn](https://img.shields.io/badge/Seaborn-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-008080?style=for-the-badge&logo=python&logoColor=white)
 
-</div>
+### ☁️ Cloud Platforms
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
+![Azure](https://img.shields.io/badge/Microsoft%20Azure-0089D6?style=for-the-badge&logo=microsoft-azure&logoColor=white)
+
+### 📌 Project Management Tools
+![Jira](https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=jira&logoColor=white)
+
 
 
 
