@@ -2,7 +2,7 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=00FF9F&center=true&vCenter=true&width=1000&lines=if+(knowledge+%3E+ignorance)%3A+life.upgrade(level%2B%3D1);if+failure.count+%3E+0%3A+print(%22Failure+is+just+a+step+towards+success%22)" alt="Typing SVG" />
 </p>
 
-# 👋 Welcome to My World!  
+# 👋 Welcome!  
 
 _"The greatest risks yield the greatest rewards – when calculated with precision."_  
 
